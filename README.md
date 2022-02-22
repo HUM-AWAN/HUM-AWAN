@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HUM-AWAN
 - 👀 I’m interested in data analysis and science behind it
-- 🌱 I’m currently learning data analysis
+- 🌱 I’m data analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/0huma/
 
